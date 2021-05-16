@@ -2,7 +2,7 @@
 
 Original code (for single-image carousel) from [this article](https://medium.com/@marcusmichaels/how-to-build-a-carousel-from-scratch-in-vanilla-js-9a096d3b98c9).
 
-Modified code to accomodate for multiple images, and simplified code to keep only the essential.
+Modified code to make it multi-image, and simplified code to keep only the essential.
 
 Notes:
 
